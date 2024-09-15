@@ -1,7 +1,7 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "http://175.178.251.183:6689/channel.txt",
+    "http://love23.tpddns.cn:9394/www/love1.txt",
     "https://ygbh.site/php/p3p.php",
     "https://raw.githubusercontent.com/kakaxi-2/iptv/main/gotostill.txt",
     
